@@ -1,4 +1,4 @@
-## Goal
+### Goal
 Playing around with Event Driven Architectures is hard! The goal of this project is to simplify playing around with EDAs - and to use technologies, best practices and approaches that may easily be extrapolated to a production-ready state. 
 
 ## So, what's in here?
